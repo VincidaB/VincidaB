@@ -1,5 +1,3 @@
-Welcome to My GitHub Profile 🚀
-
 I'm Vincent, a final-year student at ISAE-ENSMA, a prestigious aeronautical engineering school 🎓. I'm set to graduate in 2024 with a specialization in Embedded Systems and a Master's in Big Data 📊.
 
 ### Robotics Enthusiast 🤖
