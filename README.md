@@ -6,7 +6,8 @@ I had the privilege of serving as the President of the Robotics Club @ensmasteel
 
 ### Current Project 🚧
 
-I'm currently working on building a robot for the 2025 edition of the French Robotics Cup 🇫🇷. I'm utilizing ROS2 and Gazebo to bring this project to life 🤩. Stay tuned for updates on my progress!
+I'm currently working on multi agent robotics exploration and mapping as a research scholar at Ilinois Tech in CHicago.
+As for personal projects, I'm currently working on building a robot for the 2025 edition of the French Robotics Cup 🇫🇷. I'm utilizing ROS2 and Gazebo to bring this project to life 🤩. Stay tuned for updates on my progress!
 
 ### About Me 👋
 
@@ -14,18 +15,3 @@ As an aeronautical engineering student with a strong interest in embedded system
 
 ### Let's Build Something Amazing Together 💻
 Thanks for stopping by, and I look forward to your feedback and contributions to my projects 🙏.
-
-<!--
-**VincidaB/VincidaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
