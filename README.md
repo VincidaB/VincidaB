@@ -5,5 +5,11 @@ I'm Vincent, a final-year student at ISAE-ENSMA. I'm set to graduate in 2024 wit
 [![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)]()
 
 ### Technologies & Frameworks
-[![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker)]()
+![Static Badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 [![ROS](https://img.shields.io/badge/ROS-black?style=for-the-badge&logo=ros)]()
+
+### Softwares
+
+![Static Badge](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+
