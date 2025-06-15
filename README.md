@@ -1,5 +1,3 @@
-I'm Vincent, a final-year student at ISAE-ENSMA. I'm set to graduate in 2024 with a **specialization in Embedded Systems** and a **Master's in Big Data** 📊.
-
 ### Languages 
 [![C++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=cplusplus)]()
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
